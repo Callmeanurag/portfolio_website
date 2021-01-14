@@ -95,11 +95,6 @@ section .title::after{
     align-items: center;
     justify-content: space-between;
 }
-.navbar .logo a{
-    color: #fff;
-    font-size: 35px;
-    font-weight: 600;
-}
 .navbar .logo a span{
     color: crimson;
     transition: all 0.3s ease;
