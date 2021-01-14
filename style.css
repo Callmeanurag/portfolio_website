@@ -402,6 +402,7 @@ section .title::after{
     resize: none;
 }
 .contact .right form .button{
+    margin-top: 45px;
     height: 47px;
     width: 170px;
 }
